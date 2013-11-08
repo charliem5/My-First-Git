@@ -27,7 +27,10 @@ how do I make a **new** page with *itallics* and **shit**[^1]
 
 [^1]: Stop swearing you bastard
 
+!
+
 I think I want to put a picture in here:
+![Meme](AngryCat-266x300.jpg)
 
 
 
